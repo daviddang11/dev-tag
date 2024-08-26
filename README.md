@@ -1,19 +1,27 @@
-# dev-tag
+# Dev-tag
 a website based on flask to get your profile and personalized your tag !!!
 
-DEVELOPEMENT : 
+### Maker 
 
-basic HTML page(√)
+Daviddang11
 
-basic flask stuff(√)
+### Statue 
+Still Working
 
-basic web scratching (github) (√)
+### Contributers
 
-TODO LIST :
+None
 
-basic visualizations ()
+### Done list
 
-Connecting MySQL ()
+· Basic HTML page
 
-V1.0.0 upload ()
+· Basic info catch
 
+### Working on
+
+· SVG presenting
+
+### Todo list
+
+· CSS + JS
